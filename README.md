@@ -1,4 +1,6 @@
 # projectX
-first repository
-This is Vijaya Sankar from coimbatore learning how to use GitHUB,It's a nice learning experience.
-Thanks for visiting my repository.
+SIMPLIFIED AES ALGORITHM IMPLEMETED IN C
+ENCODING AND DECODING 
+PLAIN TEXT:16 BITS
+KEY:16 BITS
+

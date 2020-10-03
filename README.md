@@ -1,4 +1,4 @@
-# AES implementation written in C for a school project
+# AES implementation written in C
 - SIMPLIFIED AES ALGORITHM IMPLEMETED IN C
 - ENCODING AND DECODING 
 - PLAIN TEXT:16 BITS

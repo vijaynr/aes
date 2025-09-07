@@ -1,0 +1,26 @@
+# Build artifacts
+*.o
+*.exe
+aes
+enc
+
+# IDE files
+.vscode/
+*.sublime-*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# Debug files
+*.gdb
+core
+
+# Test output
+test_output.txt

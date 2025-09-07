@@ -61,7 +61,7 @@ void dround0(){
     //printf("d0");
 }
 //polynomial multiplication
-unsigned int short gmul(unsigned int short m1,unsigned int short m2){
+unsigned short int gmul(unsigned short int m1,unsigned short int m2){
     unsigned short int res=0x0;
     unsigned short int j=0;
     while(m1){
@@ -69,6 +69,7 @@ unsigned int short gmul(unsigned int short m1,unsigned int short m2){
         m1=m1>>1;
         j=j+1;
     }
+    return res;
 }
 //bitwise polynomial modulo 19 multiplication
 unsigned short int bitmul(unsigned short int b1,unsigned short int b2){
